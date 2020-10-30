@@ -222,10 +222,6 @@
     outline: 1px dotted ButtonText;
   }
   
-  /**
-   * Correct the padding in Firefox.
-   */
-  
   fieldset {
     padding: 0.35em 0.75em 0.625em;
   }

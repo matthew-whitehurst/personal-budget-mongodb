@@ -4,7 +4,7 @@ const budgetItemsModel = require('./models/budget_items_schema');
 
 const app = express();
 const port = 3000;
-const url = 'mongodb://localhost:27017/budget';
+const url = 'mongodb://localhost:3000/budget';
 
 app.use('/', express.static('public'));
 app.use(express.json());
