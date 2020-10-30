@@ -1,0 +1,39 @@
+{
+    "myBudget": [
+      {
+        "title": "Eat out",
+        "value": 25,
+        "color": "#ffcd56"
+      },
+      {
+        "title": "Rent",
+        "value": 375,
+        "color": "#ff6384"
+      },
+      {
+        "title": "Grocery",
+        "value": 110,
+        "color": "#35a2eb"
+      },
+      {
+        "title": "Gas",
+        "value": 100,
+        "color": "#fd6b19"
+      },
+      {
+        "title": "Electricity",
+        "value": 44,
+        "color": "#ff0000"
+      },
+      {
+        "title": "Phone",
+        "value": 50,
+        "color": "#800080"
+      },
+      {
+        "title": "Cable",
+        "value": 34,
+        "color": "#00ff00"
+      }
+    ]
+  }
